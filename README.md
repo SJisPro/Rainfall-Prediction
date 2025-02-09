@@ -10,9 +10,8 @@ A machine learning-based project that predicts **whether it will rain tomorrow**
 3. [Tech Stack](#tech-stack)  
 4. [Installation](#installation)  
 5. [Usage](#usage)  
-6. [Data Visualization](#data-visualization)  
-7. [License](#license)  
-8. [Contact](#contact)  
+6. [License](#license)  
+7. [Contact](#contact)  
 
 ---
 
