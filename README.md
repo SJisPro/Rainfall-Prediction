@@ -111,7 +111,3 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 - Email: jainsamyakdelhi@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/samyak-jain-0807ab249)  
 - GitHub: [Your GitHub Profile](https://github.com/SJisPro)  
-
----
-
-Would you like me to add deployment instructions or any additional sections? 🚀
